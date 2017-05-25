@@ -2,5 +2,3 @@ Hello world!
 This is my first trial!
 
 Here is additional line!!!!!
-
-This is develop branch
